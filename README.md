@@ -3,20 +3,21 @@ AI Inventory and Sales Forecasting System
 
 Team information:
 Team name: CSE4104-7B-T05 ;
-Section: 7B
-Team Leader Name: Nishan Sami 
-Team Leader ID: 11230321272
+Section: 7B;
+Team Leader Name: Nishan Sami;
+Team Leader ID: 11230321272;
 Member List: 
-Number	Name	ID
-1	Fahima Sultana Sakiya	11230321254
-2	Avishek Banerjee Joy	11230321263
-3	Nishan Sami	11230321272
-4	Sathi Bayragi	11230321303
+
+1-Fahima Sultana Sakiya-11230321254;
+
+2-Avishek Banerjee Joy-11230321263;
+3-Nishan Sami-11230321272;
+4-Sathi Bayragi-11230321303;
 
 Technology Stack : Using PERN stack. PARN covers the main web layers :
-•	Database :  postgreSQL
-•	Backend : Express.js on Node.js
-•	Frontend : React.js
+•	Database :  postgreSQL;
+•	Backend : Express.js on Node.js;
+•	Frontend : React.js;
 
 ABOUT PROJECT :
 The AI Inventory and Sales Forecasting System is a web application designed to help small shops manage their stock and sales more intelligently. Many businesses face difficulties managing their inventory and predicting future sales. Sometimes, they purchase too many products, resulting in excess stock, increased storage costs, and product wastage. On the other hand, they may run out of popular products, leading to lost sales and dissatisfied customers. Our project aims to solve these problems by developing an AI-powered system that analyzes historical sales data, predicts future demand, monitors stock levels, and recommends appropriate inventory quantities. 
