@@ -21,6 +21,22 @@ Member List:
 
 4-Sathi Bayragi-11230321303;
 
+Features
+•	Authentication
+
+•	Product Management
+
+•	Sales and Purchase Recording
+
+•	Dashboard
+
+•	Demand Forecasting
+
+•	Stock-out Prediction
+
+•	Reorder Recommendation
+
+
 Technology Stack : Using PERN stack. PARN covers the main web layers :
 
 •	Database :  postgreSQL;
