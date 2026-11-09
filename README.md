@@ -2,7 +2,7 @@ Project Title:
 AI Inventory and Sales Forecasting System
 
 Team information:
-Team name: CSE4104-7B-T05
+Team name: CSE4104-7B-T05 ;
 Section: 7B
 Team Leader Name: Nishan Sami 
 Team Leader ID: 11230321272
