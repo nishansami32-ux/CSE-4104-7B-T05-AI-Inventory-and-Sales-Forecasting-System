@@ -3,23 +3,23 @@ AI Inventory and Sales Forecasting System
 
 Team information:
 
-Team name: CSE4104-7B-T05 ;
+Team name: CSE4104-7B-T05 
 
-Section: 7B;
+Section: 7B
 
-Team Leader Name: Nishan Sami;
+Team Leader Name: Nishan Sami
 
-Team Leader ID: 11230321272;
+Team Leader ID: 11230321272
 
 Member List: 
 
-1-Fahima Sultana Sakiya-11230321254;
+1-Fahima Sultana Sakiya-11230321254
 
-2-Avishek Banerjee Joy-11230321263;
+2-Avishek Banerjee Joy-11230321263
 
-3-Nishan Sami-11230321272;
+3-Nishan Sami-11230321272
 
-4-Sathi Bayragi-11230321303;
+4-Sathi Bayragi-11230321303
 
 Features
 •	Authentication
@@ -39,11 +39,11 @@ Features
 
 Technology Stack : Using PERN stack. PARN covers the main web layers :
 
-•	Database :  postgreSQL;
+•	Database :  postgreSQL
 
-•	Backend : Express.js on Node.js;
+•	Backend : Express.js or Node.js
 
-•	Frontend : React.js;
+•	Frontend : React.js
 
 ABOUT PROJECT :
 
