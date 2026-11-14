@@ -21,7 +21,8 @@ Member List:
 
 4-Sathi Bayragi-11230321303
 
-Features
+Features:
+
 •	Authentication
 
 •	Product Management
@@ -49,11 +50,5 @@ PARN covers the main web layers :
 
 ABOUT PROJECT :
 
-The AI Inventory and Sales Forecasting System is a web application designed to help small shops manage their stock and sales more intelligently. Many businesses face difficulties managing their inventory and predicting future sales. Sometimes, they purchase too many products, resulting in excess stock, increased storage costs, and product wastage. On the other hand, they may run out of popular products, leading to lost sales and dissatisfied customers. Our project aims to solve these problems by developing an AI-powered system that analyzes historical sales data, predicts future demand, monitors stock levels, and recommends appropriate inventory quantities. 
-
-It is built for shop owners and staff, such as those running grocery stores, pharmacies and small wholesalers, with the owner using the dashboard and reorder advice for buying decisions while staff handle daily sales and stock entry. 
-Artificial Intelligence (AI) is needed in this project to analyze historical sales data, identify sales patterns, and predict future product demand. Traditional inventory systems mainly record current stock and previous sales, whereas AI can use historical data to estimate future demand and provide intelligent recommendations. It helps businesses maintain optimal stock, reduce overstocking, prevent stock shortages, and recommend suitable reorder quantities. Therefore, AI makes inventory management smarter, faster, and more efficient.
-
-Existing tools like Zoho Inventory, inFlow and Odoo manage stock well but are often costly, complex and weak in demand prediction for very small shops, and advanced forecasting services are too expensive for them, while Oracle Supply Chain Planning offers demand and supply planning solutions for businesses. Our project will combine inventory management, AI-based sales forecasting, low-stock alerts, and smart reorder recommendations in a single web-based platform.
-
+The AI Inventory and Sales Forecasting System is a web app that helps small shops manage their stock and sales more smartly. Many shops either overstock, which raises storage costs and causes wastage, or run out of popular items and lose customers. Our system uses AI to study past sales, predict future demand, track stock levels, and suggest how much to reorder. It is made for shop owners and staff of grocery stores, pharmacies, and small wholesalers, where owners use the dashboard for buying decisions and staff handle daily sales and stock entry. Unlike traditional systems that only record current stock and past sales, AI can spot sales patterns and forecast what will be needed next. Tools like Zoho Inventory, inFlow, and Odoo manage stock well but are costly, complex, and weak at demand prediction for tiny shops, while Oracle Supply Chain Planning is too expensive for them. Our project combines inventory management, AI sales forecasting, low stock alerts, and smart reorder advice in one simple platform.
 
