@@ -37,7 +37,9 @@ Features
 •	Reorder Recommendation
 
 
-Technology Stack : Using PERN stack. PARN covers the main web layers :
+Technology Stack : Using PERN stack.
+
+PARN covers the main web layers :
 
 •	Database :  postgreSQL
 
