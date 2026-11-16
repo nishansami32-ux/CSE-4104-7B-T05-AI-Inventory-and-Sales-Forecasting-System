@@ -12,14 +12,12 @@ Team Leader Name: Nishan Sami
 Team Leader ID: 11230321272
 
 ## Member List: 
-
-1-Fahima Sultana Sakiya-11230321254
-
-2-Avishek Banerjee Joy-11230321263
-
-3-Nishan Sami-11230321272
-
-4-Sathi Bayragi-11230321303
+| Name | ID |
+|------|----|
+| Fahima Sultana Sakiya  | 11230321254 |
+| Avishek Banerjee Joy | 11230321263 |
+| Nishan Sami | 11230321272 |
+| Sathi Bayragi | 11230321303 |
 
 ## Features:
 
